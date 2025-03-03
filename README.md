@@ -52,6 +52,6 @@ I write code.
 <!-- [Check out my progress!](https://www.codedex.io/@Baku/30-nites-of-code) -->
 <!-- ![@Baku #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Baku) -->
 <p align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=Baku" alt="@Baku #30NitesOfCode"/>
+  <a href="https://www.codedex.io/@Baku/30-nites-of-code" target="_blank"><img src="https://www.codedex.io/api/petStatus?user=Baku" alt="@Baku #30NitesOfCode"/></a>
 </p>
 

@@ -49,5 +49,5 @@ I write code.
 ---
 
 ## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@Baku/30-nites-of-code)  
+<!-- [Check out my progress!](https://www.codedex.io/@Baku/30-nites-of-code) -->
 ![@Baku #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Baku)

@@ -50,4 +50,8 @@ I write code.
 
 <!-- ## #30NitesOfCode: -->
 <!-- [Check out my progress!](https://www.codedex.io/@Baku/30-nites-of-code) -->
-![@Baku #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Baku)
+<!-- ![@Baku #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Baku) -->
+<p align="center">
+  <img src="https://www.codedex.io/api/petStatus?user=Baku" alt="@Baku #30NitesOfCode"/>
+</p>
+

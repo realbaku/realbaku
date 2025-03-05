@@ -8,7 +8,7 @@ I write code.
     <td>
       <!-- Discord Embed -->
       <a href="https://discord.com/users/352825316294524928">
-        <img src="https://lanyard.cnrad.dev/api/352825316294524928?bg=030003&idleMessage=Keep%20Those%20Eyes%20Wide%20Open.%20Watch%20Me%20Rip%20It%20Off%20And%20Break%20Free!&borderRadius=&hideActivity=false&hideTimestamp=true&showDisplayName=false" width="350"/>
+        <img src="https://lanyard.cnrad.dev/api/352825316294524928?bg=0bbfd6&idleMessage=Keep%20Those%20Eyes%20Wide%20Open.%20Watch%20Me%20Rip%20It%20Off%20And%20Break%20Free!&borderRadius=&hideActivity=false&hideTimestamp=true&showDisplayName=false" width="350"/>
       </a>
     </td>
     <td>
